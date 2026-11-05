@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="720" viewBox="0 0 1200 720" role="img" aria-label="Portfolio artwork for Project Management Fundamentals">
+ <defs><linearGradient id="bg" x1="0" x2="1" y1="0" y2="1"><stop stop-color="#f4a2c6"/><stop offset="1" stop-color="#f4a2c6"/></linearGradient></defs>
+ <rect width="1200" height="720" fill="url(#bg)"/>
+ <rect x="872" y="0" width="328" height="720" fill="#d31260"/>
+ <rect x="872" y="395" width="218" height="325" fill="#6b0735" opacity=".3"/>
+ <rect x="918" y="0" width="12" height="720" fill="#6b0735" opacity=".12"/>
+ <circle cx="1060" cy="211" r="90" stroke="#fff" stroke-width="3" stroke-opacity=".2" fill="none"/>
+ <circle cx="1060" cy="211" r="125" stroke="#fff" stroke-width="2" stroke-opacity=".14" fill="none"/>
+ <path d="M1024 211h72 M1060 175v72" stroke="#fff" stroke-width="10" stroke-linecap="round" opacity=".52"/>
+ <text x="64" y="104" fill="#171626" font-size="37" font-family="Arial, Helvetica, sans-serif" font-weight="800">IBM / SkillsBuild</text>
+ <rect x="64" y="141" width="96" height="5" rx="2" fill="#d31260"/>
+ <text x="64" y="220" fill="#171626" font-size="64" font-weight="750" font-family="Arial, Helvetica, sans-serif">Project Management</text><text x="64" y="295" fill="#171626" font-size="64" font-weight="750" font-family="Arial, Helvetica, sans-serif">Fundamentals</text>
+ <text x="64" y="540" font-size="29" font-weight="550" font-family="Arial, Helvetica, sans-serif" fill="#313044">Project management</text>
+ <text x="64" y="595" font-size="25" font-family="Arial, Helvetica, sans-serif" fill="#313044">Issued June 2026</text>
+ <line x1="64" y1="644" x2="810" y2="644" stroke="#313044" opacity=".23"/>
+ <text x="64" y="677" font-size="21" letter-spacing="2" font-family="Arial, Helvetica, sans-serif" fill="#313044">PORTFOLIO PREVIEW ARTWORK</text>
+ </svg>
