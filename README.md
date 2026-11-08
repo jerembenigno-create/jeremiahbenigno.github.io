@@ -1,6 +1,6 @@
 # Jeremiah Benigno — Portfolio Website
 
-A responsive, recruiter-facing website covering AI systems integration, Make.com automation, cloud deployment, technical experience, and learning credentials.
+A responsive portfolio for Jeremiah Benigno, Software Developer and Automation & AI Integration Developer. It includes seven project case studies, a resume PDF, and a certification gallery.
 
 ## Open locally
 
@@ -38,7 +38,8 @@ Then open `http://localhost:8000`.
 - Change the email and LinkedIn URL in the HTML files if needed.
 - To edit project information, change the matching entry in `case-studies.js`, as well as the overview card in `index.html`.
 - To add certificate images, place optimized image files in `assets/`, then add a matching card in `certificates.html`.
-- Replace `assets/Jeremiah_Benigno_Resume_2026.pdf` after revising your resume.
+- Replace `assets/Jeremiah_Benigno_Resume.PDF` after revising your resume. Keep the filename capitalization for GitHub Pages.
+- Keep the status on the overview card and the case study aligned when a workflow moves from pilot to production.
 
 ## Publication and confidentiality checklist
 

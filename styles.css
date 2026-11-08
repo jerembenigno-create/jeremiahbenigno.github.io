@@ -10,3 +10,11 @@
 .cert-view[hidden]{display:none!important}
 .cert-card-pending .cert-cover{background:#d9e2e9}
 .cert-card .cert-cover img[data-original]{object-fit:contain;background:transparent}
+
+.expertise-grid{grid-template-columns:repeat(2,minmax(0,1fr))}
+#case-features{margin-top:42px}
+.case-feature-groups{display:grid;gap:12px}
+.case-feature-groups>div{border:1px solid var(--line);border-radius:14px;background:var(--panel);padding:18px 20px}
+.case-feature-groups h3{font-size:1.15rem;letter-spacing:-.025em;margin-bottom:6px}
+.case-feature-groups ul{font-size:.92rem}
+@media(max-width:790px){.expertise-grid{grid-template-columns:1fr}}
